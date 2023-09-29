@@ -27,7 +27,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![](https://github.com/SSYernar/Wordle-CodePath-IOS101-Project1/blob/main/Editing%20Wordle-CodePath-IOS101-Project2_README.md%20at%20main%20%C2%B7%20SSYernar_Wordle-CodePath-IOS101-Project2%20-%2029%20September%202023.mp4)
+![](https://github.com/SSYernar/Wordle-CodePath-IOS101-Project2/blob/main/Editing%20Wordle-CodePath-IOS101-Project2_README.md%20at%20main%20%C2%B7%20SSYernar_Wordle-CodePath-IOS101-Project2%20-%2029%20September%202023.gif)
+
+https://www.loom.com/embed/c08c0a3dbb814a58a4c0a05be3eb9a8e?sid=06ee8773-8406-454a-95e9-16a8a725b62b
 
 
 ## Notes
